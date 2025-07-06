@@ -30,7 +30,9 @@ django_todo/
 │   └── static/
 │       └── frontend/
 │           └── js/
-│               └── script.js  # jQuery logic for UI and AJAX
+│               └── script.js
+│           └── css/
+│               └── style.css
 ├── django_todo/
 │   └── settings.py      # Django project settings
 ├── db.sqlite3           # SQLite database

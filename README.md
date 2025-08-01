@@ -36,8 +36,8 @@ django_todo/
 |   └── templates/
 |       └── frontend/
 |           └── list.html
-|       └── views.py
-|       └── urls.py  
+|   └── views.py
+|   └── urls.py  
 |   
 ├── django_todo/
 │   └── settings.py      # Django project settings

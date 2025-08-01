@@ -33,6 +33,12 @@ django_todo/
 │               └── script.js
 │           └── css/
 │               └── style.css
+|   └── templates/
+|       └── frontend/
+|           └── list.html
+|       └── views.py
+|       └── urls.py  
+|   
 ├── django_todo/
 │   └── settings.py      # Django project settings
 ├── db.sqlite3           # SQLite database
